@@ -30,8 +30,3 @@ The course equips participants with **freelance-ready data analysis skills**, co
 
 ### 🔹 Capstone Project  
 An **end-to-end case study** integrating **SQL, Python, Excel, Power BI, and Tableau**, covering data extraction, transformation, visualization, and **business decision-making insights**.  
-
-## 📖 How to Use  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/nti-data-analysis.git
