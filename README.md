@@ -1,4 +1,4 @@
-# NTI Data Analysis 📊  
+# NTI Data Analysis Projects 📊  
 
 ## 📌 Overview  
 This repository contains **data analysis projects** and **freelancing skill development resources** from the NTI "Skills for the Freelance Professional" course. The projects include **real-world datasets**, **data visualization**, **statistical analysis**, and **business intelligence** using SQL, Python, Excel, Power BI, and Tableau.  
